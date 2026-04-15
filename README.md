@@ -3,7 +3,7 @@
 This repository contains my mini project notebook for semantic segmentation on Pascal VOC 2007, together with all generated figures.
 
 ## Repository Contents
-
+- `report.pdf`
 - `mini_project_2.ipynb`: Main notebook with data loading, training, evaluation, and visualization.
 - `figures/`: Output figures organized by experiment:
   - `unet-r34/`
