@@ -31,8 +31,3 @@ This repository contains my mini project notebook for semantic segmentation on P
    ```
 2. Open `mini_project_2.ipynb` in Jupyter Notebook or VS Code.
 3. Run cells in order to reproduce experiments (depending on your environment, some model sections may require GPU and additional packages).
-
-## Notes
-
-- Figures are uploaded as individual files (instead of zip) so they can be previewed directly on GitHub.
-- Large intermediate artifacts are not required to browse results; the main outputs are in `figures/`.
